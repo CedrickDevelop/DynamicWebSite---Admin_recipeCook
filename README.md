@@ -1,5 +1,5 @@
 ```diff
-@@ PROJET MVC PHP from Scratch avec une adminstration @@
+@@ PROJET MVC PHP ADMIN from Scratch @@
 
 ! Présentation
 Site réalisé en quelques semaines correspondant à la partie Admin d'un site web dans lequel on retrouvera des cuisiniers et des recettes.
