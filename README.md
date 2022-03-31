@@ -1,19 +1,21 @@
-# DynamicWebSite---Admin_recipeCook
+```diff
+@@ PROJET MVC PHP from Scratch avec une adminstration @@
+
+! Présentation
+Site réalisé en quelques semaines correspondant à la partie Admin d'un site web dans lequel on retrouvera des cuisiniers et des recettes.
 PHP MVC + JS + CSS + HTML
 
-Site réalisé en quelques semaines correspondant à la partie Admin d'un site web dans lequel on retrouvera des cuisiniers et des recettes.
++ ADMINISTRATEUR
+Création de compte cuisiniers et administrateurs
 
-ADMINISTRATEUR
-- Création de compte cuisiniers et administrateurs
++ RECETTES
+Création de recettes 
+Mise à jour de recettes
+Suppression de recettes
 
-RECETTES
-- Création de recettes 
-- Mise à jour de recettes
-- Suppression de recettes
++ CUISINIERS 
+Creation de cuisiniers
 
-CUISINIERS 
-- Creation de cuisiniers
-
-CONNEXION 
-- Module JAVASCRIPT de terminal de paiement 
++ CONNEXION 
+Module JAVASCRIPT se présente sous forme de pad numérique comme un terminal de paiement 
 
